@@ -1,0 +1,12 @@
+
+
+html, body {
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+    family-font: Arial;
+    family-size: 20px;
+    font-weight: bold;
+}
